@@ -6,7 +6,6 @@ import Footer from '../Footer/Footer.js'
 const Layout = () => {
     return (
         <div className='container'>
-            <title>Marlon Vergara</title>
             <Navbar />
             <Header />
             <div className='body'>
