@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marlawn/static/css/main.073c9b0a.css",
+    "main.js": "/marlawn/static/js/main.f4ae7def.js",
+    "static/js/787.cf98142f.chunk.js": "/marlawn/static/js/787.cf98142f.chunk.js",
+    "static/media/logo.svg": "/marlawn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/marlawn/index.html",
+    "main.073c9b0a.css.map": "/marlawn/static/css/main.073c9b0a.css.map",
+    "main.f4ae7def.js.map": "/marlawn/static/js/main.f4ae7def.js.map",
+    "787.cf98142f.chunk.js.map": "/marlawn/static/js/787.cf98142f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4ae7def.js"
+  ]
+}
