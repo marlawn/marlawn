@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/marlawn/static/css/main.073c9b0a.css",
-    "main.js": "/marlawn/static/js/main.f4ae7def.js",
-    "static/js/787.cf98142f.chunk.js": "/marlawn/static/js/787.cf98142f.chunk.js",
-    "static/media/logo.svg": "/marlawn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/marlawn/static/css/main.93e3e3f3.css",
+    "main.js": "/marlawn/static/js/main.7157ca0a.js",
+    "static/media/montserrat-all-400-normal.woff": "/marlawn/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
+    "static/media/oswald-all-400-normal.woff": "/marlawn/static/media/oswald-all-400-normal.673ee7f9f17c46d31734.woff",
+    "static/media/montserrat-latin-400-normal.woff2": "/marlawn/static/media/montserrat-latin-400-normal.f2d2ef7bf6fc24bddc8f.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/marlawn/static/media/montserrat-latin-ext-400-normal.75ba6196d4ce0a73d699.woff2",
+    "static/media/oswald-latin-400-normal.woff2": "/marlawn/static/media/oswald-latin-400-normal.37ffdd2667b8a0045f0d.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/marlawn/static/media/montserrat-cyrillic-ext-400-normal.d2bdc151bae5b3d2d100.woff2",
+    "static/media/oswald-latin-ext-400-normal.woff2": "/marlawn/static/media/oswald-latin-ext-400-normal.9bef1115dad2e376a5c5.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/marlawn/static/media/montserrat-cyrillic-400-normal.9c4cf182194c27761650.woff2",
+    "static/media/oswald-cyrillic-400-normal.woff2": "/marlawn/static/media/oswald-cyrillic-400-normal.4e0878bcbd77d121b0a3.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/marlawn/static/media/montserrat-vietnamese-400-normal.69611381dc5e4dd3b448.woff2",
+    "static/media/oswald-vietnamese-400-normal.woff2": "/marlawn/static/media/oswald-vietnamese-400-normal.41a32b05c1c1aa801c03.woff2",
+    "static/media/oswald-cyrillic-ext-400-normal.woff2": "/marlawn/static/media/oswald-cyrillic-ext-400-normal.7b46ac3618f42c81c1cf.woff2",
     "index.html": "/marlawn/index.html",
-    "main.073c9b0a.css.map": "/marlawn/static/css/main.073c9b0a.css.map",
-    "main.f4ae7def.js.map": "/marlawn/static/js/main.f4ae7def.js.map",
-    "787.cf98142f.chunk.js.map": "/marlawn/static/js/787.cf98142f.chunk.js.map"
+    "main.93e3e3f3.css.map": "/marlawn/static/css/main.93e3e3f3.css.map",
+    "main.7157ca0a.js.map": "/marlawn/static/js/main.7157ca0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f4ae7def.js"
+    "static/css/main.93e3e3f3.css",
+    "static/js/main.7157ca0a.js"
   ]
 }
